@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Texto Alternativo](https://i.imgur.com/BDmDt9o.png)
 
 - ## Uso do menu principal
@@ -21,3 +22,6 @@ comandos:
     Permissão: pocketmine.group.operator (OP)
     
 ```
+=======
+# CustomCharacter
+>>>>>>> 84f43136f9ef3d59fae8eaab60e39fe8deac6aef
